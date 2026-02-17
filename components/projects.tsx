@@ -22,6 +22,13 @@ const projects = [
     url: "https://rahonne08.github.io/Rick-and-Morty-Characters/",
     tags: ["API REST", "JavaScript", "GitHub Pages"],
   },
+  {
+    title: "Star Wars Characters",
+    description:
+      "Aplicacao web que consome a SWAPI (Star Wars API) para listar e exibir personagens do universo Star Wars com interface tematica e interativa.",
+    url: "https://rodrigoserrasqueiro.github.io/Star-Wars-Characters/",
+    tags: ["API REST", "JavaScript", "GitHub Pages"],
+  },
 ]
 
 export function Projects() {
