@@ -18,7 +18,9 @@ export function Contact() {
 
         <div className="mt-12 grid md:grid-cols-2 gap-6">
           <a
-            href="mailto:pablorahonne.pr@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=pablorahonne.pr@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group bg-card rounded-xl border border-border p-6 hover:border-primary/50 transition-all hover:-translate-y-1 flex items-center gap-4"
           >
             <div className="flex items-center justify-center w-12 h-12 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors shrink-0">
@@ -46,7 +48,9 @@ export function Contact() {
             {"Estou aberto a novas oportunidades e projetos. Se voce tem uma ideia interessante ou precisa de um profissional dedicado, ficarei feliz em conversar!"}
           </p>
           <a
-            href="mailto:pablorahonne.pr@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=pablorahonne.pr@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg text-sm font-medium hover:opacity-90 transition-opacity mt-6"
           >
             <Mail className="h-4 w-4" />
