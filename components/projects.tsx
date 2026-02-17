@@ -15,6 +15,20 @@ const projects = [
     url: "https://maycon-rafael.lovable.app",
     tags: ["Portfolio", "Web Design", "Freelance"],
   },
+  {
+    title: "Rick and Morty Characters",
+    description:
+      "Aplicacao web interativa que consome a API publica de Rick and Morty para exibir todos os personagens da serie. Inclui navegacao por carrossel e design tematico.",
+    url: "https://rahonne08.github.io/Rick-and-Morty-Characters/",
+    tags: ["API REST", "JavaScript", "GitHub Pages"],
+  },
+  {
+    title: "Star Wars Characters",
+    description:
+      "Aplicacao web que consome a SWAPI (Star Wars API) para listar e exibir personagens do universo Star Wars com interface tematica e interativa.",
+    url: "https://rodrigoserrasqueiro.github.io/Star-Wars-Characters/",
+    tags: ["API REST", "JavaScript", "GitHub Pages"],
+  },
 ]
 
 export function Projects() {
