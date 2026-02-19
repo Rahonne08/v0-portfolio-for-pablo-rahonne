@@ -26,7 +26,7 @@ export function About() {
 
         <div className="mt-12 bg-card rounded-xl border border-border p-8">
           <p className="text-muted-foreground leading-relaxed text-base">
-            {"Sou um profissional com perfil multidisciplinar, unindo a formacao cientifica em Biologia e Ecologia com a paixao por tecnologia e desenvolvimento web. Com mais de 4 anos de experiencia em atendimento ao publico e vendas, desenvolvi habilidades solidas de comunicacao, negociacao e resolucao de problemas. Atualmente, estou em transicao para a area de tecnologia, aplicando minha capacidade analitica e meu compromisso com a qualidade na criacao de solucoes digitais."}
+            {"Sou um profissional com perfil multidisciplinar, unindo a formacao cientifica em Biologia e Ecologia com a paixao por tecnologia e desenvolvimento web. Com mais de 5 anos de experiencia em atendimento ao publico e vendas, desenvolvi habilidades solidas de comunicacao, negociacao e resolucao de problemas. Atualmente, estou em transicao para a area de tecnologia, aplicando minha capacidade analitica e meu compromisso com a qualidade na criacao de solucoes digitais."}
           </p>
         </div>
       </div>
