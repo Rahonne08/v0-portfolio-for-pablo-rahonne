@@ -29,6 +29,13 @@ const projects = [
     url: "https://rodrigoserrasqueiro.github.io/Star-Wars-Characters/",
     tags: ["API REST", "JavaScript", "GitHub Pages"],
   },
+  {
+    title: "Avifauna Nordestina",
+    description:
+      "Aplicativo dedicado a avifauna da regiao Nordeste do Brasil. Catalogo interativo para conhecer e explorar as especies de aves nordestinas.",
+    url: "https://v0.app/chat/avifauna-nordestina-app-iBlv1BJqCOq?ref=TY89XB",
+    tags: ["App", "Natureza", "v0"],
+  },
 ]
 
 export function Projects() {
